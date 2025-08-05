@@ -54,14 +54,18 @@ This project is ideal for marketing and sales teams seeking data-driven insights
 - Identify funnel drop-off points to fix conversion leaks
 
 
-## 💡 Value Proposition for Stakeholders
- ------------------------------------------------------------------------------------
-| Stakeholder         | Benefit from the System                                      |
-|---------------------|--------------------------------------------------------------|
-| Marketing Teams     | Prioritized leads for better ROI on ad spend                 |
-| Sales Teams         | Clear visibility into where each lead stands in the funnel   |
-| CRM Integrators     | Easy API access and compatibility with major CRMs            |
-| Data Science Team   | Model accuracy dashboards and retraining pipelines           |
-| Executives          | Insightful reports to make strategic decisions               |
-| Clients             | Higher conversion rates and reduced customer acquisition cost|
- ------------------------------------------------------------------------------------
+## Value Proposition for Stakeholders
+### Stakeholder Overview
+
+| Stakeholder Group | Role / Usage                                 | Benefit                             |
+|-------------------|----------------------------------------------|-------------------------------------|
+| Marketing Team    | Uses lead scores to target effectively       | Improved ad ROI                     |
+| Sales Team        | Tracks funnel stage of leads                 | Focused follow-ups                  |
+| Executives        | Reviews funnel analytics                     | Strategic decision-making           |
+| CRM Team          | Integrates with system via API               | Saves dev time, seamless ops        |
+| Data Team         | Builds & maintains AI/ML models              | Model accuracy, tracking            |
+| Clients           | Indirect beneficiaries of smart targeting    | Faster support & engagement         |
+| Product Team      | Enhances product based on insights           | Better user journey                 |
+| Analysts          | Extract insights for reports                 | Real-time, actionable analytics     |
+| Customer Support  | Uses scores to prioritize responses          | Better service delivery             |
+
