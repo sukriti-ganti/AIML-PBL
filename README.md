@@ -1,6 +1,6 @@
 # AI-Powered Lead Qualification and Funnel Prediction System.
 
->“Artificial intelligence would be the ultimate version of Google. The ultimate search engine that would understand everything on the web. It would understand exactly what you wanted, and it would give you the right thing. We’re nowhere near doing that now. However, we can get incrementally closer to that, and that is basically what we work on.”
+>“Artificial intelligence would be the ultimate version of Google. The ultimate search engine that would understand everything on the web. It would understand exactly what you wanted, and it would give you the right thing. We’re nowhere near doing that now. However, we can get incrementally closer to that, and that is basically what we work on.” <br>
 > -Larry Page
 
 This project is one of the first few steps my team and I are taking to move towards Artificial Intelligence and Machine Learning, while learning all of its capabilities and be able to use it for our own betterment.
