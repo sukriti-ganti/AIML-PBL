@@ -20,17 +20,6 @@ This folder contains all the reference material, papers, and resources we used t
 3. Use the **mindmaps** for conceptual linking between ideas.  
 
 
-
-## 📑 Research Index
-
-| Title                                                                                       | Type       | Year | Link                                                                                         |
-|---------------------------------------------------------------------------------------------|------------|------|----------------------------------------------------------------------------------------------|
-| The Future of Lead Scoring: How AI is Transforming B2B Marketing (SuperAGI)                 | Article    | 2025 | [Read here](https://superagi.com/the-future-of-lead-scoring-how-ai-is-transforming-b2b-marketing-trends-in-2025-and-beyond/) |
-| Predicting Customer Conversion with Machine Learning                                        | Research   | 2023 | [PDF](./papers/customer_conversion_prediction.pdf)                                           |
-| Funnel Stage Classification using Multi-class Classification                               | Research   | 2022 | [PDF](./papers/funnel_stage_classification.pdf)                                              |
-
-
-
 ## 🔍 Purpose
 This research repository ensures:
 - All our sources are documented and accessible.
