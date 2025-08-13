@@ -21,4 +21,4 @@ The website also positions SuperAGI as an **"All-in-One Agentic GTM (Go-To-Marke
 
 
 ### 2.  The second is a research paper, this research papers speaks a lot about Lead scoring as well.
-[The relevance of lead prioritization: a B2B lead scoring model based on machine learning](research/Lead Scoring/Lead_Scoring.pdf)
+[The relevance of lead prioritization: a B2B lead scoring model based on machine learning](./Lead_Scoring.pdf)
