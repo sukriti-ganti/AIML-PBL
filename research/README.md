@@ -7,17 +7,17 @@ This folder contains all the reference material, papers, and resources we used t
 
 
 ## 🗂 Folder Structure
-- **/summaries** – Short summaries of each research paper or article.  
-- **/papers** – PDF or text copies of research papers (with proper citation).  
-- **/mindmaps** – Visual mind maps for quick understanding of concepts.  
-- **/notes** – Our handwritten/typed notes for key insights.
-
+This will help you navigate through the folders of this repository, here each folder is related to each model of our project
+- **/LeadConversion**  
+- **/LeadScoring**  
+- **/SalesFunnels**  
 
 
 ## 📄 How to Use
-1. Start with the **summaries** to get a quick overview.  
+In each folder you will find different files, but you will have to go to the README.md, where a quick overview is written about the whole folder that'll help you navigate further - 
+1. Start with the **summaries** (given in the README.md) to get a quick overview.  
 2. Dive into the **papers** for detailed methodology and references.  
-3. Use the **mindmaps** for conceptual linking between ideas.  
+3. Use the **mindmaps** (Not currently available for all) for conceptual linking between ideas.  
 
 
 ## 🔍 Purpose
