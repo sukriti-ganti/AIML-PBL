@@ -114,3 +114,5 @@ Here is a precise, point-wise explanation of the article:
 ## 
 
 ### 9. A short video giving an overview of the topic!
+
+[![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg)](https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4)
