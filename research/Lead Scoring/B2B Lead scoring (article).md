@@ -117,4 +117,3 @@ Here is a precise, point-wise explanation of the article:
 
 [Watch the video](https://raw.githubusercontent.com/sukriti-ganti/AIML-PBL/main/research/Lead%20Scoring/How_AI_is_Revolutionizing_Lead_Scoring.mp4)
 
-<video src="https://raw.githubusercontent.com/sukriti-ganti/AIML-PBL/main/research/Lead%20Scoring/How_AI_is_Revolutionizing_Lead_Scoring.mp4" controls width="600"></video>
