@@ -115,4 +115,4 @@ Here is a precise, point-wise explanation of the article:
 
 ### 9. A short video giving an overview of the topic!
 
-[![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg)](https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4)
+[Watch the video](https://raw.githubusercontent.com/sukriti-ganti/AIML-PBL/main/research/Lead%20Scoring/How_AI_is_Revolutionizing_Lead_Scoring.mp4)
