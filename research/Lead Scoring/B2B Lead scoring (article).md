@@ -7,6 +7,19 @@ The article "The Future of Lead Scoring: How AI is Transforming B2B Marketing Tr
 
 Here is a precise, point-wise explanation of the article:
 
+| S.No | Topic |
+|------|-------|
+| 1 | [Introduction to AI in Lead Scoring](###1-introduction-to-ai-in-lead-scoring) |
+| 2 | [Limitations of Traditional Lead Scoring Methods](#2-limitations-of-traditional-lead-scoring-methods) |
+| 3 | [The Rise of AI-Powered Lead Intelligence](#3-the-rise-of-ai-powered-lead-intelligence) |
+| 4 | [Five Key AI Innovations Reshaping Lead Scoring](#4-five-key-ai-innovations-reshaping-lead-scoring) |
+| 5 | [Implementing AI-Driven Lead Scoring](#5-implementing-ai-driven-lead-scoring) |
+| 6 | [Case Study: SuperAGI’s Transformation](#6-case-study-superagis-transformation) |
+| 7 | [The Future of Lead Scoring](#7-the-future-of-lead-scoring) |
+| 8 | [Conclusion and Actionable Next Steps](#8-conclusion-and-actionable-next-steps) |
+| 9 | [A short video giving an overview of the topic](#9-a-short-video-giving-an-overview-of-the-topic) |
+
+
 ### 1. **Introduction to AI in Lead Scoring:**
 - The B2B marketing landscape is undergoing a significant transformation driven by AI integration in lead scoring.
 - AI-powered lead scoring offers enhanced accuracy, efficiency, and personalization.
