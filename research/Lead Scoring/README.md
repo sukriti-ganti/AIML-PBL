@@ -3,7 +3,7 @@
 
 
 ### 1.  The first piece of reference was from an article released by *Super AGI*
-[The Future of Lead Scoring – SuperAGI](https://superagi.com/the-future-of-lead-scoring-how-ai-is-transforming-b2b-marketing-trends-in-2025-and-beyond/)  
+[The Future of Lead Scoring – SuperAGI](https://github.com/sukriti-ganti/AIML-PBL/blob/main/research/Lead%20Scoring/B2B%20Lead%20scoring%20(article).md)  
 
 This article provides an overview and insights into SuperAGI, an All-in-One Agentic GTM (Go-To-Market) and CRM Platform that is at the forefront of transforming B2B marketing and sales through the integration of Artificial Intelligence (AI). It particularly highlights the revolutionary impact of AI-powered lead scoring
 
