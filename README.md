@@ -18,7 +18,7 @@ This project is ideal for marketing and sales teams seeking data-driven insights
   Uses classification models to predict the **probability of a lead becoming a customer** based on demographic, behavioral, and campaign data.
 
 **- Funnel Stage Classifier-**
-  **Classifies each lead into predefined sales funnel stages** like Awareness, Interest, Decision, or Action, using multi-class classification techniques.
+  **Classifies each lead into predefined sales funnel stages** like Awareness, Interest, Decision, or Action, Intelligence using multi-class classification techniques.
 
 **- Lead Scoring Model**
   **Assigns a numerical value (0–100) to each lead**, quantifying lead quality and engagement level. Scores are based on various features such as interaction frequency, source quality, and prior history.
