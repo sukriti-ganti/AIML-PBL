@@ -6,7 +6,7 @@
 This project is one of the first few steps my team and I are taking to move towards Artificial Intelligence and Machine Learning, while learning all of its capabilities and be able to use it for our own betterment.
 
 ## Project Overview:
-This project involves a modular structure built using different ML models that streamline lead management.
+This project involves a modular structure built using different ML models that streamline lead management
 It consists of three key layers that analyze, score and predict lead behaviour for improvised marketing performance.
 
 This project is ideal for marketing and sales teams seeking data-driven insights to boost conversion rates and optimize funnel engagement.
