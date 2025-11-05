@@ -37,7 +37,7 @@ This project is ideal for marketing and sales teams seeking data-driven insights
 3) Insights Interface
    - A simple dashboard presents lead scores, predicted funnel stages, and likelihood of conversion.
    - Exports insights or integrates with existing CRM via API.
-
+     
 
 ## Key Features
  - Accurate lead scoring using AI
@@ -51,7 +51,7 @@ This project is ideal for marketing and sales teams seeking data-driven insights
 - Focus sales efforts on high-potential leads
 - Reduce manual workload with automation
 - Increase ROI on marketing campaigns
-- Identify funnel drop-off points to fix conversion leaks
+- Enhances customer engagement and response time.
 
 
 ## Value Proposition for Stakeholders
